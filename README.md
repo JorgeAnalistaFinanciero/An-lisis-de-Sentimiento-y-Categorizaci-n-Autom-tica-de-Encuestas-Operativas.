@@ -1,4 +1,4 @@
-# Análisis de Eficiencia Operativa y Satisfacción en Retail con NLP
+# Análisis de eficiencia operativa y satisfacción en retail con NLP
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Library-Pandas-150458)
